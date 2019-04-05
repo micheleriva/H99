@@ -1,6 +1,3 @@
-<h1 align="center"> H99 </h1>
-<h3 align="center"> 99 Haskell Problems </h3>
-
 <img src="/docs/logo.png" align="center">
 
 <details><summary>Problems 01-10</summary>
