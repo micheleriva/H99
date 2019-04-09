@@ -22,3 +22,17 @@ Solutions:
 
 </p>
 </details>
+
+<details><summary>Problems 11-20</summary>
+<p>
+
+Source: [https://wiki.haskell.org/99_questions/11_to_20](https://wiki.haskell.org/99_questions/11_to_20)
+
+Solutions:
+- [Problem 01 - ★★☆☆☆](/src/11-20/011.hs)
+
+</p>
+</details>
+
+# License
+[Unlicense (Public Domain)](/LICENSE.md)
